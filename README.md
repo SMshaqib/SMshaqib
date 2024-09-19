@@ -1,4 +1,4 @@
-<img src="[https://pbs.twimg.com/media/Fzm_5DsWYAAr_PO.jpg:large" width="900" height="500](https://www.wallpaperflare.com/static/851/501/292/programming-code-minimalism-eat-wallpaper.jpg)">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*sV60JhlYL4IdWjcNvKTJRA.png">
 <h1 align="center">Hi 👋, This is SM Shaqib</h1>
 <h3 align="center">A passionate competitive programmer, App Developer and Machine Learning enthusiast</h3>
 
