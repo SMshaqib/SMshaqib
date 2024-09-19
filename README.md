@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/Fzm_5DsWYAAr_PO.jpg:large">
+<img src="https://pbs.twimg.com/media/Fzm_5DsWYAAr_PO.jpg:large" width="900" height="500">
 <h1 align="center">Hi 👋, This is SM Shaqib</h1>
 <h3 align="center">A passionate competitive programmer, App Developer and Machine Learning enthusiast</h3>
 
