@@ -1,4 +1,4 @@
-<img src="[https://t4.ftcdn.net/jpg/02/78/37/47/360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img src="https://pbs.twimg.com/media/Fzm_5DsWYAAr_PO.jpg:large">
 <h1 align="center">Hi 👋, This is SM Shaqib</h1>
 <h3 align="center">A passionate competitive programmer, App Developer and Machine Learning enthusiast</h3>
 
